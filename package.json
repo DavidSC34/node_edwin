@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/DavidSC34/node_edwin#readme",
   "dependencies": {
-    "axios": "^0.19.0"
+    "axios": "^0.21.1"
   }
 }
